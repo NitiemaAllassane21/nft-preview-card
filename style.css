@@ -82,6 +82,7 @@ h2 a{
     background-image: url("/images/icon-view.svg");
     background-repeat: no-repeat;
     background-position: center;
+    margin-bottom: 1em;
 }
 
 .card__image--hover:hover img {
@@ -100,7 +101,7 @@ h2 a{
 
 
 .card__title {
-    margin: 1em 0;
+    margin-bottom: 0.6em;
 }
 
 /* Hover state */
@@ -111,7 +112,7 @@ h2 a{
 
 
 .card__text {
-    margin-bottom: 16px;
+    margin-bottom: 1em;
 }
 
 
@@ -121,7 +122,7 @@ h2 a{
     justify-content: space-between;
     padding-bottom: 1em;
     border-bottom: 2px solid var(--blue-800);
-    margin: 1.5em 0;
+    margin-bottom: 1.5em;
 }
 
 .card__price, .card__time {
