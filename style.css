@@ -100,7 +100,7 @@ h2 a{
 
 
 .card__title {
-    margin: 12px 0;
+    margin: 1em 0;
 }
 
 /* Hover state */
@@ -121,7 +121,7 @@ h2 a{
     justify-content: space-between;
     padding-bottom: 1em;
     border-bottom: 2px solid var(--blue-800);
-    margin-bottom: 1em;
+    margin: 1.5em 0;
 }
 
 .card__price, .card__time {
@@ -151,8 +151,8 @@ h2 a{
 }
 
 .card__creator-image {
-    width: 50px;
-    height: 50px;
+    width: 35px;
+    height: 35px;
     overflow: hidden;
     border-radius: 50%;
     background-color: var(--white);
